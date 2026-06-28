@@ -66,7 +66,7 @@ Experience the complete workflow of **GENEXIS**, from sequence submission to exp
 
 <p align="center">
   <a href="Genexis/LandingPage.png">
-    <img src="assets/landing-page.png" alt="GENEXIS Landing Page" width="95%">
+    <img src="Genexis/LandingPage.png" alt="GENEXIS Landing Page" width="95%">
   </a>
 </p>
 
@@ -83,7 +83,7 @@ Experience the complete workflow of **GENEXIS**, from sequence submission to exp
 
 <p align="center">
   <a href="Genexis/Dashboard.png">
-    <img src="assets/prediction-dashboard.png" alt="Prediction Dashboard" width="95%">
+    <img src="Genexis/Dashboard.png" alt="Prediction Dashboard" width="95%">
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Experience the complete workflow of **GENEXIS**, from sequence submission to exp
 
 <p align="center">
   <a href="Genexis/GOPredictions.png">
-    <img src="assets/go-predictions.png" alt="Top GO Predictions" width="95%">
+    <img src="Genexis/GOPredictions.png" alt="Top GO Predictions" width="95%">
   </a>
 </p>
 
