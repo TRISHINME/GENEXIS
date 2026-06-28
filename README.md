@@ -1,4 +1,4 @@
-🧬 GENEXIS: A Custom Hybrid Dual-Encoder Transformer for Predicting Gene-Disease Association
+GENEXIS: A Custom Hybrid Dual-Encoder Transformer for Predicting Gene-Disease Association
 
 GENEXIS is an AI-powered biomedical research framework that leverages Transformer architectures, Large Language Models (LLMs), and Bioinformatics to predict gene-disease associations with greater accuracy and interpretability.
 
