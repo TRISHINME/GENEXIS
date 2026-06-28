@@ -53,3 +53,60 @@ Published in **IEEE** and indexed in **Scopus**, this project marks an important
 
 **IEEE Xplore:**  
 https://ieeexplore.ieee.org/document/11496960
+
+---
+
+# 📸 GENEXIS in Action
+
+Experience the complete workflow of **GENEXIS**, from sequence submission to explainable Gene Ontology (GO) predictions powered by our Hybrid Dual-Encoder Transformer.
+
+<br>
+
+## 🏠 Landing Page
+
+<p align="center">
+  <a href="Genexis/LandingPage.png">
+    <img src="assets/landing-page.png" alt="GENEXIS Landing Page" width="95%">
+  </a>
+</p>
+
+<p align="center">
+  <em>
+  A clean and intuitive interface where users can submit DNA or protein sequences for analysis. 
+  The platform highlights its transformer-based architecture, prediction capabilities, and confidence-driven evaluation.
+  </em>
+</p>
+
+---
+
+## 📊 Prediction Dashboard
+
+<p align="center">
+  <a href="Genexis/Dashboard.png">
+    <img src="assets/prediction-dashboard.png" alt="Prediction Dashboard" width="95%">
+  </a>
+</p>
+
+<p align="center">
+  <em>
+  Interactive dashboard presenting prediction confidence, model accuracy, confidence distribution, and graphical visualizations of Gene Ontology (GO) predictions.
+  </em>
+</p>
+
+---
+
+## 🧬 Top Predicted Gene Ontology (GO) Labels
+
+<p align="center">
+  <a href="Genexis/GOPredictions.png">
+    <img src="assets/go-predictions.png" alt="Top GO Predictions" width="95%">
+  </a>
+</p>
+
+<p align="center">
+  <em>
+  Ranked Gene Ontology predictions with confidence scores and biological descriptions, providing interpretable insights into predicted molecular functions and biological processes.
+  </em>
+</p>
+
+---
