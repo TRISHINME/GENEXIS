@@ -59,7 +59,8 @@ https://ieeexplore.ieee.org/document/11496960
 # 📸 GENEXIS in Action
 
 Experience the complete workflow of **GENEXIS**, from sequence submission to explainable Gene Ontology (GO) predictions powered by our Hybrid Dual-Encoder Transformer.
-
+Due to patent issues, the backend transformer model isn't been uploaded to GitHub 
+Website for Genexis is under progress 
 <br>
 
 ## 🏠 Landing Page
